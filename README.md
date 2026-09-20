@@ -212,7 +212,7 @@ Business Recommendations
 ---
 
 ## Author
-SACHIN PRAJAPATI
+
 Sachin Prajapati
 
 Data Analyst | Business Analyst | BI Analyst | Power BI | AI Analytics

@@ -1,0 +1,4 @@
+driver,evidence,business_action,success_metric
+Low Recent Engagement,0-1 previous-month workouts: 10.58% churn vs 4.81% for 2+ workouts,Trigger re-engagement campaigns when recent workout activity falls.,Monthly churn rate and re-engagement rate
+Support Contact,Support contact: 11.66% churn vs 5.02% without contact,Prioritize support cases for customers whose engagement is declining.,Post-support churn and ticket resolution time
+Annual Renewal Period,Annual renewal-period churn: 40.19%,Start renewal campaigns before annual customers reach renewal.,Annual renewal rate and renewal-period churn

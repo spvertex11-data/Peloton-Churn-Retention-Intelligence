@@ -1,0 +1,4 @@
+driver,high_risk_group,high_risk_churn_rate_pct,comparison_group,comparison_churn_rate_pct,business_action,churn_rate_gap_pct_points
+Low Previous-Month Engagement,0-1 previous-month workouts,10.58,2+ previous-month workouts,4.81,Trigger re-engagement campaigns for inactive members,5.77
+Support Contact,Customer contacted support,11.66,No support contact,5.02,Prioritize support cases with declining engagement,6.64
+Plan Type / Renewal Risk,Monthly plan / annual renewal period,51.18,Annual plan,26.38,Use targeted retention and pre-renewal campaigns,24.8

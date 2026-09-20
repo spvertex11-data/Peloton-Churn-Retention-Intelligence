@@ -1,0 +1,58 @@
+
+AI-POWERED SUBSCRIPTION CHURN & RETENTION INTELLIGENCE SYSTEM
+FINAL BUSINESS RECOMMENDATION
+
+BUSINESS PROBLEM
+Leadership wants to understand why subscribers cancel and
+which actions could improve retention.
+
+KEY FINDINGS
+
+1. LOW RECENT ENGAGEMENT
+Customers completing 0-1 workouts in the previous month had
+a churn rate of 10.58%, compared with
+4.81% among customers completing 2+
+workouts.
+
+Recommendation:
+Create an early-warning rule for declining workout activity
+and trigger personalized workout recommendations,
+reminders, and re-engagement campaigns.
+
+2. SUPPORT CONTACT
+Customer-months with support contact had a churn rate of
+11.66%, compared with
+5.02% without support contact.
+
+Recommendation:
+Prioritize support cases when the customer is also showing
+declining engagement. Track resolution time and post-support
+retention.
+
+3. ANNUAL RENEWAL RISK
+Annual customers show a distinct retention risk around their
+renewal period.
+
+Recommendation:
+Begin renewal engagement before the renewal month using
+progress summaries, personalized recommendations and
+targeted retention offers.
+
+MEASUREMENT PLAN
+
+Track:
+- Monthly Churn Rate
+- First-Month Engagement Rate
+- Low-Engagement Churn Rate
+- Support Contact Churn Rate
+- Annual Renewal Rate
+- Average Customer Tenure
+
+Test retention actions using treatment and comparison groups
+so leadership can measure whether interventions actually
+reduce churn.
+
+FINAL CONCLUSION
+The strongest opportunity is to intervene before cancellation,
+using declining engagement, customer-support contact and
+renewal timing as actionable retention signals.
